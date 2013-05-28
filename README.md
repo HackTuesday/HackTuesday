@@ -35,7 +35,7 @@ We meet at Berkman Center for Internet and Society in Harvard. Berkman is locate
 
 ## Repository format
 
-Each technology topic gets its own repository. Inside the repository, each member should create their own branch. Not much should go into the master branch unless we see a solid project forming. Feel free to cherry pick commits from other users' branches during development.
+Each technology topic gets its own repository. Inside the repository, each member should create their own folder on the master branch. We use different folders because each member's test code/project is usually very different from the other members'.
 
 ## What to hack? (a.k.a. Hack Tuesday topics)
 
