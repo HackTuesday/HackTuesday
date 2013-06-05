@@ -44,10 +44,10 @@ The following lists are guidelines for topics to look into, research, hack, or j
 ### future
 
 * D3
+* bower
 * AngularJS (more)
 * BackboneJS <=> REST API/db updates
 * Blob URLs & canvas+img
-* bower
 * Chrome Web Store
 * Cloud 9
 * Dart
