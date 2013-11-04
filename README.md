@@ -56,7 +56,6 @@ The following lists are guidelines for topics to look into, research, hack, or j
 * duckduckgo plugin
 * enchant.js
 * expressjs
-* Mozilla Tow Truck
 * Facebook graph search API
 * Firefox OS
 * Haskell
