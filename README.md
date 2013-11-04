@@ -43,6 +43,7 @@ The following lists are guidelines for topics to look into, research, hack, or j
 
 ### future
 
+* CSS calc
 * D3
 * bower
 * AngularJS (more)
@@ -51,6 +52,7 @@ The following lists are guidelines for topics to look into, research, hack, or j
 * Chrome Web Store
 * Cloud 9
 * Dart
+* together.js (Mozilla)
 * duckduckgo plugin
 * enchant.js
 * expressjs
@@ -60,6 +62,7 @@ The following lists are guidelines for topics to look into, research, hack, or j
 * HelioJS
 * HTML5 blob: API
 * HTML5 FS
+* Lightbeam (Mozilla API use charter)
 * Hugin (open source yahoo pipes)
 * ICanHaz js
 * implement game of life
